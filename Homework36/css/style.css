@@ -135,4 +135,5 @@ html {
   border: 1px solid gray;
   background-color: #e2f7b06d;
   max-width: fit-content;
+  cursor: default;
 }
